@@ -8,3 +8,7 @@
 /RepositoryPattern/Domain/obj
 /RepositoryPattern/Infrastructure2/bin/Debug/netcoreapp3.1
 /RepositoryPattern/Infrastructure2/obj
+/RepositoryPattern/Infrastructure.Interfaces/bin/Debug/netcoreapp3.1
+/RepositoryPattern/Infrastructure.Interfaces/obj
+/RepositoryPattern/UnitTest.Integration.Repositories/bin/Debug/netcoreapp3.1
+/RepositoryPattern/UnitTest.Integration.Repositories/obj
